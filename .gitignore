@@ -1,3 +1,4 @@
 __pycache__
-dblp/*
 .ipynb_checkpoints
+data
+data.zip
