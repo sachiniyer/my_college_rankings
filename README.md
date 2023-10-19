@@ -31,7 +31,7 @@ You create a meta ranking with the data sources and the stats you want. For exam
 
 This is the same as in the notebook.
 
-[Data Archive Download Link](http://store.sachiniyer.com/s/9NczHAmPJFiQgys/download/data.zip)
+[Data Archive Download Link](https://share.sachiniyer.com/share/FrbjszTR)
 
 ### CS Rankings Author info
 
