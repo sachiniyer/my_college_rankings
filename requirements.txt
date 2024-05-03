@@ -1,4 +1,4 @@
-tqdm==4.66.1
+tqdm==4.66.3
 pandas==2.0.3
 numpy==1.24.4
 plotly==5.17.0
